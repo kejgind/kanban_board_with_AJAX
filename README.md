@@ -1,2 +1,3 @@
-# kodilla_12.7
-AJAX - tablica kanban
+# kanban_board_with_AJAX
+
+kanban board with AJAX using kodilla API
